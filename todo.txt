@@ -1,0 +1,2 @@
+Make it so you can edit every page and view all of them using the autocomplete thing
+Allow the creation of new pages and easy linking. 
